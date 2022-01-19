@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Udundi-Coding-Challenge/build/index.html/static/css/main.135ac725.css",
-    "main.js": "/Udundi-Coding-Challenge/build/index.html/static/js/main.e6112020.js",
-    "static/js/787.9b95f70b.chunk.js": "/Udundi-Coding-Challenge/build/index.html/static/js/787.9b95f70b.chunk.js",
-    "static/media/trees.png": "/Udundi-Coding-Challenge/build/index.html/static/media/trees.5dfbb750599e0ea91721.png",
-    "index.html": "/Udundi-Coding-Challenge/build/index.html/index.html",
-    "main.135ac725.css.map": "/Udundi-Coding-Challenge/build/index.html/static/css/main.135ac725.css.map",
-    "main.e6112020.js.map": "/Udundi-Coding-Challenge/build/index.html/static/js/main.e6112020.js.map",
-    "787.9b95f70b.chunk.js.map": "/Udundi-Coding-Challenge/build/index.html/static/js/787.9b95f70b.chunk.js.map"
+    "main.css": "/Udundi-Coding-Challenge/static/css/main.41a79441.css",
+    "main.js": "/Udundi-Coding-Challenge/static/js/main.7f25581d.js",
+    "static/js/787.9b95f70b.chunk.js": "/Udundi-Coding-Challenge/static/js/787.9b95f70b.chunk.js",
+    "static/media/trees.png": "/Udundi-Coding-Challenge/static/media/trees.5dfbb750599e0ea91721.png",
+    "index.html": "/Udundi-Coding-Challenge/index.html",
+    "main.41a79441.css.map": "/Udundi-Coding-Challenge/static/css/main.41a79441.css.map",
+    "main.7f25581d.js.map": "/Udundi-Coding-Challenge/static/js/main.7f25581d.js.map",
+    "787.9b95f70b.chunk.js.map": "/Udundi-Coding-Challenge/static/js/787.9b95f70b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.135ac725.css",
-    "static/js/main.e6112020.js"
+    "static/css/main.41a79441.css",
+    "static/js/main.7f25581d.js"
   ]
 }
