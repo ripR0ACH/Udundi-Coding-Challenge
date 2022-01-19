@@ -1,1 +1,1 @@
-start time: 9:00am January 19th, 2022
+start time: 10:00am January 19th, 2022
