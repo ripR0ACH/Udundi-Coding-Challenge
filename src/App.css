@@ -1,0 +1,60 @@
+
+.app {
+    background-image: url(./trees.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 100%!important;
+    width: 100%!important;
+}
+.cover {
+    background-color: #611818;
+    position: absolute;
+    z-index: 0;
+    height: 100%;
+    width: 30%;
+}
+.titles-container {
+    position: absolute;
+    color: white;
+    z-index: 1;
+    left: 10%;
+    bottom: 20%;
+}
+h1.titles {
+    overflow: hidden;
+    letter-spacing: 0.25rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 8rem;
+}
+#plus {
+    margin-left: 2rem;
+    margin-right: 1rem;
+    vertical-align: top;
+    transition: transform 0.25s;
+}
+#plus:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+#plus, h6.titles {
+    display: inline-block;
+}
+h6.titles { 
+    font-size: 1rem;
+    padding-top: 5px;
+}
+@media only screen and (max-width: 576px) {
+    .app {
+        background-size: cover;
+    }
+    h1.titles {
+        font-size: 3rem;
+    }
+}
+@media only screen and (max-width: 768px) {
+    h1.titles {
+        font-size: 5rem;
+    }
+}
